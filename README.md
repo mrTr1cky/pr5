@@ -5,6 +5,8 @@
 ![GitHub forks](https://img.shields.io/github/forks/mrTr1cky/pr5?style=social)
 ![GitHub](https://img.shields.io/github/license/mrTr1cky/pr5)
 
+![PR5 Logo](pr5.png)
+
 This Python script scans domains for Cross-Origin Resource Sharing (CORS) vulnerabilities, Cross-Site Scripting (XSS) vulnerabilities, checks IP addresses, CNAME records, and determines if the domain is protected by Cloudflare.
 
 ## Features
